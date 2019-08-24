@@ -1,2 +1,0 @@
-# gatoReact
-Created with CodeSandbox
